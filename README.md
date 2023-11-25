@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dami-18
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning coding...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Damiya, first year CSE undergrad.
+- 👀 I’m interested in music, reading books and coding.
+- 🌱 I’m currently learning web development and programming in other languages.
+- 💞️ I’m looking to collaborate on web development projects. So feel free to reach out!
+- 📫 Reach me: damiyagondha@gmail.com
 
 <!---
 Dami-18/Dami-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
