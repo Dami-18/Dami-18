@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Damiya, first year CSE undergrad.
-- 👀 I’m interested in music, reading books and coding.
+- 👋 Hi, I’m Damiya, first year CSE undergrad at IIT Kharagpur.
+- 👀 I love music, reading books and coding.
 - 🌱 I’m currently learning web development and programming in other languages.
 - 💞️ I’m looking to collaborate on web development projects. So feel free to reach out!
 - 📫 Reach me: damiyagondha@gmail.com
