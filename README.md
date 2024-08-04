@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Damiya, CSE undergrad at IIT Kharagpur.<br/>
-  *Computer science is an ocean I dive deep into! 🌊*
 - 👩‍💻 I love music, books and coding
 - Visit my [website](https://dami-18.github.io/my_website/) to know more
 - 📫 Reach me: [damiyagondha@gmail.com](mailto:damiyagondha@gmail.com)
