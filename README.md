@@ -6,6 +6,4 @@
 - 🎓 Pre-final year CSE undergrad @ IIT Kharagpur
 - 🤖 RL Head @ AGV | Executive Head @ KOSS
 - 🧠 Exploring systems, robotics, and learning-by-building
-
-- 🌐 Visit my [blog site](https://dami-18.github.io/) :)
-- 📫 Reach me: [damiyagondha@gmail.com](mailto:damiyagondha@gmail.com)
+- 🌐 I write blogs [here](https://dami-18.github.io/) :)
