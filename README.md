@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Damiya, CSE undergrad at IIT Kharagpur.
-- 👩‍💻 I love music, books and coding
-- 🌐 Visit my [website](https://dami-18.github.io/my_website/) to know more
+<p align="center">
+  <img src="book_rocket_interstellar.jpg" alt="banner" />
+</p>
+
+- 👋 Hi, I’m Damiya Gondha
+- 🎓 Pre-final year CSE undergrad @ IIT Kharagpur
+- 🤖 RL Head @ AGV | Executive Head @ KOSS
+- 🧠 Exploring systems, robotics, and learning-by-building
+
+- 🌐 Visit my [blog site](https://dami-18.github.io/) :)
 - 📫 Reach me: [damiyagondha@gmail.com](mailto:damiyagondha@gmail.com)
-<!---
-Dami-18/Dami-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
