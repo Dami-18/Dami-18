@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="book_rocket_interstellar.jpg" alt="banner" />
+  <img src="cropped.jpg" alt="banner" />
 </p>
 
 - 👋 Hi, I’m Damiya Gondha
